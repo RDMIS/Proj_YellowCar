@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "myfarm-dev",
+    "dev": "myfarm-dev",
+    "prod": "myfarm"
+  }
+}
